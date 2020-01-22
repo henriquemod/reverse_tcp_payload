@@ -36,4 +36,4 @@ Session Commands:
 ![alt tag](https://i.imgur.com/cwgc12j.png)
 
 # Disclaimer
-This code is only for educational porpuse and better understanding of python programing, im not responsable for any bad usage of this code
+This code is only for educational purpose and better understanding of python programing, im not responsable for any bad usage of this code
